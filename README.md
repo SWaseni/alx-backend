@@ -1,10 +1,9 @@
-Resources
-Read or Watch
+ALX Backend
+Repo size Pep8 style Latest commit
 
-Flask-Babel
+0x00-pagination
 
-Flask i18n tutorial
+0x01-caching
 
-pytz
-
+0x02. i18n
 
